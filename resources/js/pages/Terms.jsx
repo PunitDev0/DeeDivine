@@ -60,27 +60,25 @@ const TermsAndConditions = () => {
       <section className="py-10 bg-white text-black">
         <div className="container mx-auto w-4/5 text-justify">
           <p className="text-base font-light leading-6 mb-4">
-            TERMS AND CONDITIONS FOR BOOKING OF THE COMMERCIAL UNIT IN THE PROJECT NAMELY “Springwoods City”, WHICH IS
-            PART AND PARCEL OF THE RESIDENTIAL PLOTTED COLONY ‘Springwoods City’ BEING DEVELOPED BY LION
-            INFRADEVELOPERS LLP (“Springwoods City”) AT Sector-22, Dharuhera, Haryana UNDER THE DEEN
-            DAYAL JAN AWAS YOJNA – 2016 OF THE GOVERNMENT OF HARYANA VIDE NOTIFICATION NO. PF-27A/2700 dt.
-            08/02/2016 AND ANY AMENDMENTS THERETO
+            TERMS AND CONDITIONS FOR BOOKING OF THE RESIDENTIAL UNIT IN THE PROJECT NAMELY “Elite Homes + 02 Home”, WHICH IS
+            PART AND PARCEL OF THE RESIDENTIAL PLOTTED COLONY ‘Elite Homes + 02 Home’ BEING DEVELOPED BY YP Infra Pvt. Ltd. (“Elite Homes + 02 Home”) AT Sector-24, Sonipat, Haryana UNDER THE DEEN
+            DAYAL JAN AWAS YOJNA – 2016 OF THE GOVERNMENT OF HARYANA .
           </p>
 
           <div className="mb-6">
             <h2 className="text-2xl font-semibold mb-2">1. NATURE OF BOOKING</h2>
             <p className="text-base font-light leading-6 mb-2">
-              <strong>a)</strong> This is an application for provisional booking of a Commercial Unit in the Project namely “Springwoods City” being
-              developed on the area of 0.50 acres which is the part and parcel of “Springwoods City”, an affordable residential
-              Plotted Colony spread over an area admeasuring 12.50 acres situated at Sector-22, Dharuhera, Haryana,
-              being developed by Springwoods City, under Deen Dayal Jan Awas Yojna -2016 of the Government of
+              <strong>a)</strong> This is an application for provisional booking of a Residetial Unit in the Project namely “Elite Homes + 02 Home” being
+              developed on the area of 0.50 acres which is the part and parcel of “Elite Homes + 02 Home”, an affordable residential
+              Plotted Colony spread over an area admeasuring 12.50 acres situated at Sector-24, Dharuhera, Haryana,
+              being developed by Elite Homes + 02 Home, under Deen Dayal Jan Awas Yojna -2016 of the Government of
               Haryana.
             </p>
             <p className="text-base font-light leading-6 mb-2">
               <strong>b)</strong> This provisional booking does not convey in favour of Applicant any right, title or interest of whatsoever nature unless and until the conveyance deed is executed in favour of the Applicant.
             </p>
             <p className="text-base font-light leading-6 mb-2">
-              <strong>c)</strong> This provisional booking shall be confirmed by Springwoods City only when the Applicant shall sign and execute the Allotment Letter, make the payment of Allotment Money along with applicable taxes and shall enter
+              <strong>c)</strong> This provisional booking shall be confirmed by Elite Homes + 02 Home only when the Applicant shall sign and execute the Allotment Letter, make the payment of Allotment Money along with applicable taxes and shall enter
               into the registered Agreement for Sale/BBA.
             </p>
           </div>
@@ -88,12 +86,12 @@ const TermsAndConditions = () => {
           <div className="mb-6">
             <h2 className="text-2xl font-semibold mb-2">2. PROJECT LAND TITLE, LICENCES AND LOCATION</h2>
             <p className="text-base font-light leading-6 mb-2">
-              <strong>a)</strong> The Applicant has applied for allotment of the Commercial Unit with full knowledge and subject to all the laws/notifications(s) and rules applicable in general, which have been explained by Springwoods City to the
+              <strong>a)</strong> The Applicant has applied for allotment of the Commercial Unit with full knowledge and subject to all the laws/notifications(s) and rules applicable in general, which have been explained by Elite Homes + 02 Home to the
               Applicant in vernacular language and duly understood by the Applicant.
             </p>
             <p className="text-base font-light leading-6 mb-2">
               <strong>b)</strong> The Applicant has examined and fully satisfied himself/herself/themselves about the rights, interest and the title
-              of Springwoods City in the said land and has understood that Springwoods City, Lion Infradevelopers
+              of Elite Homes + 02 Home in the said land and has understood that Elite Homes + 02 Home, Lion Infradevelopers
               LLP vide (1) Collaboration Agreement No. 12855 dated 27-03-2023 with Nika Propmart Pvt. Ltd. and Sh. Jan
               Lohia S/o Sh. Ravinder Singh Lohia, (2) Collaboration Agreement No. 2817 dated 01-10-2013 between Smt.
               Sukhpali W/o Satbir Singh and Nika Propmart Pvt. Ltd., registered GPA Vasika No. 88 dated 01-10-2013 and
@@ -110,14 +108,14 @@ const TermsAndConditions = () => {
               <strong>c)</strong> The Applicant has inspected the site where the Commercial Unit is proposed to be developed. The Applicant has
               not merely relied or been influenced by any architect’s plan, sales plan, sales brochures, advertisement,
               representations, warranties, statements or estimates of any nature whatsoever whether written or oral made by
-              Springwoods City and has taken his/her/their personal judgment prior to booking the Commercial Unit.
+              Elite Homes + 02 Home and has taken his/her/their personal judgment prior to booking the Commercial Unit.
             </p>
           </div>
 
           <div className="mb-6">
             <h2 className="text-2xl font-semibold mb-2">3. APPLICABLE LAWS</h2>
             <p className="text-base font-light leading-6 mb-2">
-              <strong>a)</strong> The Project “Springwoods City” is being developed on the area of 0.50 acres which is the part and parcel of “Springwoods City”, an affordable residential Plotted Colony spread over an area admeasuring 12.50 acres situated at Sector-22, Dharuhera, Haryana, governed by THE DEEN DAYAL JAN AWAS YOJNA – 2016 of THE GOVERNMENT OF HARYANA bearing Notification No. PF-27A/2700 dt. 08/02/2016 and subsequent amendments therein (Policy). All the terms and conditions of the Policy shall be applicable on the Commercial Unit allotted under the
+              <strong>a)</strong> The Project “Elite Homes + 02 Home” is being developed on the area of 0.50 acres which is the part and parcel of “Elite Homes + 02 Home”, an affordable residential Plotted Colony spread over an area admeasuring 12.50 acres situated at Sector-24, Dharuhera, Haryana, governed by THE DEEN DAYAL JAN AWAS YOJNA – 2016 of THE GOVERNMENT OF HARYANA bearing Notification No. PF-27A/2700 dt. 08/02/2016 and subsequent amendments therein (Policy). All the terms and conditions of the Policy shall be applicable on the Commercial Unit allotted under the
               Application. The Applicant undertakes to abide by all applicable laws including any bye laws, rules and regulations
               including the Real Estate (Regulation and Development) Act 2016 and the Rules, 2017 framed thereunder (“Real
               Estate Act”).
@@ -143,7 +141,7 @@ const TermsAndConditions = () => {
               forfeited.
             </p>
             <p className="text-base font-light leading-6 mb-2">
-              <strong>b)</strong> The Allotment Letter/ Agreement For Sale shall be executed by Springwoods City after realization of money
+              <strong>b)</strong> The Allotment Letter/ Agreement For Sale shall be executed by Elite Homes + 02 Home after realization of money
               due on Allotment along with applicable taxes etc. However, issuance of Allotment Letter/Agreement For Sale shall
               not confer any claim/right to the Applicant until all the terms and condition of Application Form and/or Allotment
               Letter/ Agreement For Sale are fulfilled and complied by the Applicant, failing which this booking shall be
@@ -156,12 +154,12 @@ const TermsAndConditions = () => {
             <p className="text-base font-light leading-6 mb-2">
               The Applicant has seen the Zoning Plan, Building Plan, area of Commercial Unit etc. and has been made aware of
               and accepts that the zoning plan, Carpet Area of the Commercial Unit are tentative and that there may be
-              variations, deletions, additions, alterations made by Springwoods City as it may in its sole discretion deem
+              variations, deletions, additions, alterations made by Elite Homes + 02 Home as it may in its sole discretion deem
               fit and proper, or by or pursuant to requirements of a Governmental Authority, which may involve changes,
               including change in the zoning plans for the Project, nature of facilities to be provided in the Project in accordance
               with the policy. The Applicant has understood and agreed that after the completion of development of the
               Commercial Unit and the occupation certificate/ part occupation/completion Certificate (as the case may be) is
-              granted by the competent authority, Springwoods City shall confirm the Carpet Area of the Commercial
+              granted by the competent authority, Elite Homes + 02 Home shall confirm the Carpet Area of the Commercial
               Unit. All such adjustments in the amounts payable or refundable as the case may be shall be made at the same
               rates as agreed herein.
             </p>
@@ -175,7 +173,7 @@ const TermsAndConditions = () => {
               Infrastructure Development Charges (IDC) component as mentioned above is applicable as on date. In case of any
               future amendment/change or upward revision of the EDC/IDC being levied, whether prospectively or
               retrospectively, due to a change in legislation or otherwise demanded by any authority, on the Project and/or the Said Land, the Applicant shall be liable to pay such additional/revised amount in proportion to the area of the
-              Commercial Unit, as per the demand letter issued by Springwoods City at that time.
+              Commercial Unit, as per the demand letter issued by Elite Homes + 02 Home at that time.
             </p>
             <p className="text-base font-light leading-6 mb-2">
               <strong>b)</strong> The Total Price includes Taxes (GST and Cess or any other taxes/fees/charges/levies etc. which may be levied, in
@@ -183,26 +181,26 @@ const TermsAndConditions = () => {
               the possession of the Commercial Unit for commercial usage to the Allottee(s) or the competent authority, as the
               case may be, after obtaining the necessary approvals from the competent authority for the purposes of such
               possession. Provided that, in case there is any change/modification in the GST/taxes/charges/ fees/levies etc., the subsequent
-              amount payable by the Allottee(s) to Springwoods City shall be increased/decreased based on such
+              amount payable by the Allottee(s) to Elite Homes + 02 Home shall be increased/decreased based on such
               change/modification.
             </p>
             <p className="text-base font-light leading-6 mb-2">
-              <strong>c)</strong> All payments shall be made through Demand draft/Cheque/NEFT/RTGS etc. in favour of “Springwoods City
-              Springwoods City Collection Account”. The Applicant must specify their name, address, customer ID, mobile no. and
-              Project name on the back side of demand draft/cheque accepted by Springwoods City and The LLP
+              <strong>c)</strong> All payments shall be made through Demand draft/Cheque/NEFT/RTGS etc. in favour of “Elite Homes + 02 Home
+              Elite Homes + 02 Home Collection Account”. The Applicant must specify their name, address, customer ID, mobile no. and
+              Project name on the back side of demand draft/cheque accepted by Elite Homes + 02 Home and The LLP
               Firm/Developer shall be deemed to have accepted such cheque/demand draft subject to their realization.
             </p>
             <p className="text-base font-light leading-6 mb-2">
-              <strong>d)</strong> All payments should be deposited only at the office of Springwoods City. Springwoods City shall not
+              <strong>d)</strong> All payments should be deposited only at the office of Elite Homes + 02 Home. Elite Homes + 02 Home shall not
               be responsible/accountable for any payment made to agent/broker/any third person. The Applicant must insist
-              for duly signed receipt from the authorized personnel of Springwoods City, after realization of the payment
+              for duly signed receipt from the authorized personnel of Elite Homes + 02 Home, after realization of the payment
               instrument.
             </p>
             <p className="text-base font-light leading-6 mb-2">
               <strong>e)</strong> The Applicant, on becoming a successful allottee in the manner as provided in this Application, shall be liable to
               pay the total price for the Commercial Unit based on Unit Area.
               <br />
-              <strong>i.</strong> The Total Price includes the Booking Amount paid by the Applicant to Springwoods City towards the
+              <strong>i.</strong> The Total Price includes the Booking Amount paid by the Applicant to Elite Homes + 02 Home towards the
               aforesaid Commercial Unit.
               <br />
               <strong>ii.</strong> The Applicant has to deposit 10% of the Total Price along with the Application. The Applicant will be required to
@@ -212,17 +210,17 @@ const TermsAndConditions = () => {
               interest as provided in Rule 15 of the Haryana Real Estate Regulatory Authority, Rules, 2017.
             </p>
             <p className="text-base font-light leading-6 mb-2">
-              <strong>f)</strong> Springwoods City shall periodically intimate in writing to the Applicant the amount payable as stated
-              above, the Applicant shall make payment as demanded by Springwoods City within the time and in the
-              manner specified therein. In addition, Springwoods City shall provide to the Applicant the details of the
+              <strong>f)</strong> Elite Homes + 02 Home shall periodically intimate in writing to the Applicant the amount payable as stated
+              above, the Applicant shall make payment as demanded by Elite Homes + 02 Home within the time and in the
+              manner specified therein. In addition, Elite Homes + 02 Home shall provide to the Applicant the details of the
               taxes/ fees/ charges/ levies etc. paid or demanded along with copy of any new amendment in the acts/ rules
               /notifications together with dates from which such taxes/ fees/ charges/ levies etc. have been imposed or
               become effective. In case there is any change or modification in the rate of any applicable taxes/ fees/ charges/
-              levies etc., the subsequent amount payable by the Applicant to Springwoods City shall be increased or
+              levies etc., the subsequent amount payable by the Applicant to Elite Homes + 02 Home shall be increased or
               decreased based on such change or modification. Provided further that GST is applicable on interest, late fees and
               penalty on delayed payment, pursuant to foregoing, interest, late fees and penalty on delayed payment along
               with GST applicable thereon will be computed and will be payable as and when the Applicant will make such
-              payments to Springwoods City against these charges. Provided further that if there is any increase in the
+              payments to Elite Homes + 02 Home against these charges. Provided further that if there is any increase in the
               rate of taxes / fees/ charges/ levies etc. after the expiry of the scheduled date of completion of the Project as per registration with the competent authority, which shall include the extension of registration, if any, granted to the
               Project by the competent authority, as per the Real Estate Act, the same shall not be charged from the Applicant.
             </p>
@@ -239,7 +237,7 @@ const TermsAndConditions = () => {
           <div className="mb-6">
             <h2 className="text-2xl font-semibold mb-2">7. LOANS</h2>
             <p className="text-base font-light leading-6 mb-2">
-              <strong>a)</strong> The Applicant shall have no objection in case Springwoods City creates a charge on the Project land during
+              <strong>a)</strong> The Applicant shall have no objection in case Elite Homes + 02 Home creates a charge on the Project land during
               the course of development of the Project for raising loan from any bank/financial institution. However, such
               charge, if created, shall be vacated before handing over possession of the Commercial Unit to the Applicant.
             </p>
@@ -248,8 +246,8 @@ const TermsAndConditions = () => {
               financing institution or bank refuses to extend financial assistance on any ground, the Applicant shall not make
               such refusal an excuse for non-payment of further installments / dues. In case there is delay in processing the
               loan in favour of the Applicant due to any reason what-so-ever and consequently the payments of installments
-              are delayed by the Applicant to Springwoods City, the Applicant agrees and accepts to make the payment
-              of accrued interest to Springwoods City, unconditionally.
+              are delayed by the Applicant to Elite Homes + 02 Home, the Applicant agrees and accepts to make the payment
+              of accrued interest to Elite Homes + 02 Home, unconditionally.
             </p>
           </div>
 
@@ -257,21 +255,21 @@ const TermsAndConditions = () => {
             <h2 className="text-2xl font-semibold mb-2">8. CANCELLATION</h2>
             <p className="text-base font-light leading-6 mb-2">
               <strong>a)</strong> If the Applicant fails to make payments for two consecutive demands (reminder for the outstanding amount for
-              more than 30 days shall be treated as new demand for this purpose) made by Springwoods City as per the
+              more than 30 days shall be treated as new demand for this purpose) made by Elite Homes + 02 Home as per the
               Payment Plan annexed hereto, despite having been issued notice in that regard the applicant shall be liable to pay
-              interest to Springwoods City on the unpaid amount at the rate prescribed in the Rules;
+              interest to Elite Homes + 02 Home on the unpaid amount at the rate prescribed in the Rules;
             </p>
             <p className="text-base font-light leading-6 mb-2">
               <strong>b)</strong> In case of default in payment by the Applicant under the conditions listed above continues for a period of ninety
-              days after notice from Springwoods City in this regard, Springwoods City may cancel the allotment of
+              days after notice from Elite Homes + 02 Home in this regard, Elite Homes + 02 Home may cancel the allotment of
               the Commercial Unit in favour of the Applicant and refund the money paid by the Applicant after forfeiture of
               Earnest Money i.e. 10% of Total Price and interest component on delayed payment. The rate of interest payable
               by the Applicant shall be the rate of interest as provided in Rule 15 of the Haryana Real Estate Regulatory
               Authority Rules, 2017. In case of cancellation of Commercial Unit after 30th September of the next financial year,
               GST paid and/or due up to preceding Financial years along with earnest money and interest due etc. as per
               Applicable Laws shall be deducted and the balance amount shall be refunded to the Applicant within 90 days of
-              such cancellation. Thereafter, the liability of Springwoods City arising out of such allotment stands
-              terminated and satisfied; Provided that Springwoods City shall intimate the Applicant about such
+              such cancellation. Thereafter, the liability of Elite Homes + 02 Home arising out of such allotment stands
+              terminated and satisfied; Provided that Elite Homes + 02 Home shall intimate the Applicant about such
               termination at least 30 days prior to such termination.
               <br />
               In case of surrender/cancellation of Commercial Unit after 30th September of the next financial year, GST paid
@@ -284,7 +282,7 @@ const TermsAndConditions = () => {
             <h2 className="text-2xl font-semibold mb-2">9. REGISTRATION & OTHER CHARGES</h2>
             <p className="text-base font-light leading-6 mb-2">
               The Applicant shall get the conveyance deed for the Commercial Unit executed in his favour from The LLP
-              Firm/Developer after paying stamp duty, registration fee and other charges/expenses, as applicable in this regard. No administrative charges shall be levied by Springwoods City except Fee and Charges payable to outside
+              Firm/Developer after paying stamp duty, registration fee and other charges/expenses, as applicable in this regard. No administrative charges shall be levied by Elite Homes + 02 Home except Fee and Charges payable to outside
               agencies including stamp duty and Registration Charges.
             </p>
           </div>
@@ -292,29 +290,29 @@ const TermsAndConditions = () => {
           <div className="mb-6">
             <h2 className="text-2xl font-semibold mb-2">10. POSSESSION</h2>
             <p className="text-base font-light leading-6 mb-2">
-              <strong>a)</strong> Possession of Commercial Unit shall be offered by Springwoods City on or before 15|12|2028 unless there is
+              <strong>a)</strong> Possession of Commercial Unit shall be offered by Elite Homes + 02 Home on or before 15|12|2028 unless there is
               delay due to “force majeure” such as war, flood, drought, fire, cyclone, epidemic, pandemic, earthquake or any
               other calamity caused by nature, etc., court orders, governmental policy/guidelines, NGT/any government
               department’s/ regulatory authority’s action/ inaction/ or omission/decision affecting the regular development of
               the Project. If the completion of the Project is delayed due to the above condition/s, then the Allottee agrees that
-              Springwoods City shall be entitled to the extension of time for delivery of possession of the Commercial
-              Unit and Springwoods City shall not be liable to pay any penalty/ interest/ compensation etc. for such
+              Elite Homes + 02 Home shall be entitled to the extension of time for delivery of possession of the Commercial
+              Unit and Elite Homes + 02 Home shall not be liable to pay any penalty/ interest/ compensation etc. for such
               extended period.
             </p>
             <p className="text-base font-light leading-6 mb-2">
               <strong>b)</strong> Upon receipt of the occupation certificate/completion certificate or part thereof in respect of the Project, The LLP
               Firm/Developer shall issue a written notice offering the possession of the Commercial Unit ("Possession
               Notice/Offer of Possession") within three months from the date of above approval in terms of the Agreement.
-              Upon receiving the Possession Notice from Springwoods City, the Applicant shall take possession of the
-              Commercial Unit from Springwoods City by executing necessary indemnities, undertakings and such other
-              documentation as prescribed in the Agreement and Springwoods City shall give possession of the
+              Upon receiving the Possession Notice from Elite Homes + 02 Home, the Applicant shall take possession of the
+              Commercial Unit from Elite Homes + 02 Home by executing necessary indemnities, undertakings and such other
+              documentation as prescribed in the Agreement and Elite Homes + 02 Home shall give possession of the
               Commercial Unit to the Applicant. In case the Applicant fails to take possession within the time provided in the
               Possession Notice/Offer of Possession, such Applicant shall continue to be liable to pay maintenance charges and
               holding charges in terms of the Agreement.
             </p>
             <p className="text-base font-light leading-6 mb-2">
               <strong>c)</strong> The Commercial Unit shall be used only for the commercial purposes. After handing over of the possession of the
-              Commercial Unit by Springwoods City, the Applicant shall himself be responsible for repairs and
+              Commercial Unit by Elite Homes + 02 Home, the Applicant shall himself be responsible for repairs and
               maintenance thereof.
             </p>
             <p className="text-base font-light leading-6 mb-2">
@@ -328,7 +326,7 @@ const TermsAndConditions = () => {
           <div className="mb-6">
             <h2 className="text-2xl font-semibold mb-2">11. MAINTENANCE</h2>
             <p className="text-base font-light leading-6 mb-2">
-              <strong>a)</strong> Springwoods City shall from the date of grant of occupation certificate/part occupation certificate of the
+              <strong>a)</strong> Elite Homes + 02 Home shall from the date of grant of occupation certificate/part occupation certificate of the
               Project or part thereof, either itself or through some maintenance agency initially maintain the Project until the
               maintenance of the Project is handed over to the Association of Allottees/ RWA for maintenance. After such
               handing over, engaging any maintenance agency for such maintenance works shall be at the sole discretion and
@@ -347,8 +345,8 @@ const TermsAndConditions = () => {
             <h2 className="text-2xl font-semibold mb-2">12. FORCE MAJEURE</h2>
             <p className="text-base font-light leading-6 mb-2">
               <strong>a)</strong> The development of the Project/ Commercial Unit is subject to any event or combination of events or
-              circumstances beyond the reasonable control of Springwoods City which cannot (a) by the exercise of
-              reasonable diligence, or (b) despite the adoption of reasonable precaution and/or alternative measures, be prevented, or caused to be prevented, and which adversely affects Springwoods City’s ability to perform
+              circumstances beyond the reasonable control of Elite Homes + 02 Home which cannot (a) by the exercise of
+              reasonable diligence, or (b) despite the adoption of reasonable precaution and/or alternative measures, be prevented, or caused to be prevented, and which adversely affects Elite Homes + 02 Home’s ability to perform
               including but not limited to the following:
               <br />
               I. Act of God i.e. fire, drought, flood, cyclone, earthquake, epidemics, pandemics, natural disasters or any
@@ -378,13 +376,13 @@ const TermsAndConditions = () => {
               VIII. Any event or circumstances analogous to the foregoing.
             </p>
             <p className="text-base font-light leading-6 mb-2">
-              <strong>b)</strong> The Applicant agrees and confirms that in the event it becomes impossible for Springwoods City to
+              <strong>b)</strong> The Applicant agrees and confirms that in the event it becomes impossible for Elite Homes + 02 Home to
               implement the Project due to Force Majeure Events and above mentioned conditions, then this allotment shall
-              stand terminated and Springwoods City shall refund to the Applicant the entire amount received by The
-              LLP Firm/Developer from the Applicant within ninety days. Springwoods City shall intimate the Applicant
+              stand terminated and Elite Homes + 02 Home shall refund to the Applicant the entire amount received by The
+              LLP Firm/Developer from the Applicant within ninety days. Elite Homes + 02 Home shall intimate the Applicant
               about such termination at least thirty days prior to such termination. After refund of the money as paid by the
-              Applicant, the Applicant agrees that he/ she shall not have any rights, claims etc. against Springwoods City
-              and that Springwoods City shall be released and discharged from all its obligations and liabilities.
+              Applicant, the Applicant agrees that he/ she shall not have any rights, claims etc. against Elite Homes + 02 Home
+              and that Elite Homes + 02 Home shall be released and discharged from all its obligations and liabilities.
             </p>
           </div>
 
@@ -395,7 +393,7 @@ const TermsAndConditions = () => {
               Firm/Developer shall be considered under a condition of default, in the following events:
             </p>
             <p className="text-base font-light leading-6 mb-2">
-              <strong>a)</strong> Springwoods City fails to provide possession of the fully developed Commercial Unit to the Applicant within
+              <strong>a)</strong> Elite Homes + 02 Home fails to provide possession of the fully developed Commercial Unit to the Applicant within
               the time period specified above or fails to complete the Project within the stipulated time disclosed at the time of
               registration of the Project with the concerned authority. For the purpose of this clause, 'fully developed
               possession' shall mean that the Commercial Unit shall be complete in all respects including the provision of all
@@ -403,24 +401,24 @@ const TermsAndConditions = () => {
               thereof has been issued by the competent authority;
             </p>
             <p className="text-base font-light leading-6 mb-2">
-              <strong>b)</strong> Discontinuance of Springwoods City’s business as a developer on account of suspension or revocation of his
+              <strong>b)</strong> Discontinuance of Elite Homes + 02 Home’s business as a developer on account of suspension or revocation of his
               registration under the provisions of the Real Estate Regulation Act or the rules or regulations made thereunder.
             </p>
             <p className="text-base font-light leading-6 mb-2">
-              <strong>c)</strong> In case of default by Springwoods City under the conditions listed above, Applicant is entitled to the
+              <strong>c)</strong> In case of default by Elite Homes + 02 Home under the conditions listed above, Applicant is entitled to the
               following:
               <br />
-              I. Stop making further payments to Springwoods City as demanded by Springwoods City. If the
-              Applicant stops making payments, Springwoods City shall correct the situation by completing the development milestones and only thereafter the Applicant be required to make the next payment without
+              I. Stop making further payments to Elite Homes + 02 Home as demanded by Elite Homes + 02 Home. If the
+              Applicant stops making payments, Elite Homes + 02 Home shall correct the situation by completing the development milestones and only thereafter the Applicant be required to make the next payment without
               any interest for the period of such delay; or
               <br />
               II. The Applicant shall have the option of terminating the allotment of Commercial Unit/Agreement. In such case
-              Springwoods City shall be liable to refund the entire money paid by the Applicant whatsoever towards
+              Elite Homes + 02 Home shall be liable to refund the entire money paid by the Applicant whatsoever towards
               the purchase of the Commercial Unit along with an interest as provided in rule 15 of the Haryana Real Estate
               Regulatory Authority, Rules, 2017, within ninety days of receiving the termination notice. Provided that
               where an Applicant does not intend to withdraw from the Project or terminate the allotment of the
               Commercial Unit/Agreement, he shall be paid interest as provided in rule 15 of the Haryana Real Estate
-              Regulatory Authority, Rules, 2017 by Springwoods City for every month of delay till the handing over of
+              Regulatory Authority, Rules, 2017 by Elite Homes + 02 Home for every month of delay till the handing over of
               the possession of the Commercial Unit, within ninety days of it becoming due.
             </p>
             <h3 className="text-xl font-semibold mb-2">
@@ -428,11 +426,11 @@ const TermsAndConditions = () => {
               shall be considered under a condition of default in the following events:
             </h3>
             <p className="text-base font-light leading-6 mb-2">
-              a) Dishonor of any cheque(s) including post-dated cheques given by the Applicant to Springwoods City for
+              a) Dishonor of any cheque(s) including post-dated cheques given by the Applicant to Elite Homes + 02 Home for
               any reason whatsoever;
               <br />
               b) Failure to execute the Agreement For Sale/BBA, conveyance deed, maintenance agreement and/or any other
-              document required to be executed with Springwoods City within such timelines as stipulated by The
+              document required to be executed with Elite Homes + 02 Home within such timelines as stipulated by The
               LLP Firm/Developer in terms of the Agreement/Application;
               <br />
               c) Applicant fails to take possession of the Commercial Unit within the time provided herein above;
@@ -458,9 +456,9 @@ const TermsAndConditions = () => {
               c) In the event the Applicant fails to make the payment of two consecutive demands (reminder for the
               outstanding amount for more than 30 days shall be treated as new demand for this purpose) made by The
               LLP Firm/Developer as per the payment plan annexed hereto, despite having been issued notice in this
-              regard, the Applicant shall be liable to pay interest to Springwoods City on the unpaid amount at the
+              regard, the Applicant shall be liable to pay interest to Elite Homes + 02 Home on the unpaid amount at the
               rate prescribed in the Rules. In case of Default by Applicant under the condition listed above continues for a
-              period beyond ninety days after notice from Springwoods City in this regard, Springwoods City
+              period beyond ninety days after notice from Elite Homes + 02 Home in this regard, Elite Homes + 02 Home
               may cancel the allotment of the Commercial Unit in favour of the Applicant and refund the money paid by the
               Applicant after forfeiture of Earnest Money i.e. 10% of Total Price and interest component on delayed
               payment. The rate of interest payable by the Applicant shall be the State Bank of India highest Marginal Cost
@@ -468,7 +466,7 @@ const TermsAndConditions = () => {
               financial year, GST paid and/or due up to preceding Financial years along with earnest money and interest due
               etc. as per Applicable Laws shall be deducted and the balance amount shall be refunded to the Applicant
               within 90 days of such cancellation. On such default, the Agreement and the liability of The LLP
-              Firm/Developer arising out of the same stands terminated; Provided that Springwoods City shall
+              Firm/Developer arising out of the same stands terminated; Provided that Elite Homes + 02 Home shall
               intimate the Applicant about such termination at least 30 days prior to such termination.
               <br />
               d) In case of such cancellation, the Applicant shall have no lien or claim on the Commercial Unit and The LLP
@@ -480,15 +478,15 @@ const TermsAndConditions = () => {
           <div className="mb-6">
             <h2 className="text-2xl font-semibold mb-2">14. COMMUNICATION AND CHANGE OF ADDRESS</h2>
             <p className="text-base font-light leading-6 mb-2">
-              <strong>a)</strong> The Applicant shall get his / her / their complete address registered with Springwoods City at the time of
-              booking and it shall be his / her / their responsibility to inform Springwoods City in writing by registered AD
+              <strong>a)</strong> The Applicant shall get his / her / their complete address registered with Elite Homes + 02 Home at the time of
+              booking and it shall be his / her / their responsibility to inform Elite Homes + 02 Home in writing by registered AD
               letter for any change in their mailing or permanent address. If he fails to do so, all demand notices and letters
               posted at the first registered address will be deemed to have been received by him at the time when those should
               ordinarily reach at such address and he shall be responsible for any default in making payment and other
               consequences that might occur therefrom.
             </p>
             <p className="text-base font-light leading-6 mb-2">
-              <strong>b)</strong> The Applicant hereby undertakes to inform Springwoods City of any change in his address or any other
+              <strong>b)</strong> The Applicant hereby undertakes to inform Elite Homes + 02 Home of any change in his address or any other
               particular/information as given above, in writing, failing which the particulars available in the Application shall be
               deemed to be correct and all the letters or any kind of communication sent at the recorded address by The LLP
               Firm/Developer shall be deemed to have been received by the Applicant and shall not be subject to any dispute of
@@ -496,10 +494,10 @@ const TermsAndConditions = () => {
               bear all the cost and expenses.
             </p>
             <p className="text-base font-light leading-6 mb-2">
-              <strong>c)</strong> In case of joint Applicant, Springwoods City shall send all letters/ notices and communications to the
+              <strong>c)</strong> In case of joint Applicant, Elite Homes + 02 Home shall send all letters/ notices and communications to the
               sole/first Applicant at his address given in the application form through registered/speed post or through courier.
               All such letters/notices and communications so sent to the sole/first Applicant shall be deemed to have been duly
-              received by all Applicants within 5 days from the date of dispatch. Springwoods City shall not be liable to
+              received by all Applicants within 5 days from the date of dispatch. Elite Homes + 02 Home shall not be liable to
               send separate communication, letters and notices to the second Applicant or to Applicant other than the first
               Applicant.
             </p>
@@ -510,7 +508,7 @@ const TermsAndConditions = () => {
             <p className="text-base font-light leading-6 mb-2">
               <strong>a)</strong> All or any disputes arising out or touching upon or in relation to the terms and conditions of this Application/
               Agreement including the interpretation and validity of the terms and conditions thereof and the respective rights
-              and obligations of the parties shall be resolved through conciliatory process. Springwoods City’s
+              and obligations of the parties shall be resolved through conciliatory process. Elite Homes + 02 Home’s
               representative shall resolve the dispute in an amicable manner by mutual discussion between the Parties. The
               said process will be mandatory. At least, 30 days period would be given for resolving the dispute between the
               parties. In case, the dispute is not resolved through conciliatory mode, the aggrieved party may opt for the
