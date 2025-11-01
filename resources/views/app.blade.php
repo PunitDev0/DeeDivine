@@ -3,6 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="google-site-verification" content="izQalQO3JpG14WdFrgz2-ngPvvDh2MB_Td3b2qtdyEw"/>
 
         {{-- Inline script to detect system dark mode preference and apply it immediately --}}
         <script>
