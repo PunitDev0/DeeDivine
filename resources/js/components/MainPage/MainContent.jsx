@@ -133,105 +133,105 @@ const MainContent = ({
         </div>
       </div>
 
+<div className="amenities-pricing mt-20" id="amenities-pricing">
+  <h2 className="cons-heading pb-2 text-center font-sans">Price List</h2>
 
-      <div className="amenities-pricing mt-20" id="amenities-pricing">
-        <h2 className="cons-heading pb-2 text-center font-sans">Price List</h2>
+  <div className="container">
+    <div className="row">
+      <div className="col-md-12 col-sm-12">
+        <div className="amenities-listing table-responsive position-relative">
+          <table
+            className="table table-bordered text-center w-100 border-collapse"
+            style={{ borderCollapse: "collapse" }}
+          >
+            <thead>
+              <tr>
+                <th className="main-th">Plot Size (Sq. Yd.)</th>
+                <th className="main-th">Rate / Sq. Yd.</th>
+                <th className="main-th">Registration Amount</th>
+                <th className="main-th">10% On Allotment</th>
+                <th className="main-th">
+                  40% Within 30 Days
+                  <br />
+                  (Include 50% EDC/IDC)
+                </th>
+                <th className="main-th">
+                  25% Within 90 Days
+                  <br />
+                  (Include 25% EDC/IDC)
+                </th>
+                <th className="main-th">
+                  25% On Possession
+                  <br />
+                  (Include 25% EDC/IDC)
+                </th>
+                <th className="main-th">Total Cost</th>
+              </tr>
+            </thead>
 
-        <div className="container">
-          <div className="row">
-            <div className="col-md-12 col-sm-12">
-              <div className="amenities-listing table-responsive position-relative">
-                <table
-                  className="table table-bordered text-center w-100 border-collapse"
-                  style={{ borderCollapse: "collapse" }}
-                >
-                  <thead>
-                    <tr>
-                      <th className="main-th">Plot Size (Sq. Yd.)</th>
-                      <th className="main-th">Rate / Sq. Yd.</th>
-                      <th className="main-th">Registration Amount</th>
-                      <th className="main-th">10% On Allotment</th>
-                      <th className="main-th">
-                        40% Within 30 Days
-                        <br />
-                        (Include 50% EDC/IDC)
-                      </th>
-                      <th className="main-th">
-                        25% Within 90 Days
-                        <br />
-                        (Include 25% EDC/IDC)
-                      </th>
-                      <th className="main-th">
-                        25% On Possession
-                        <br />
-                        (Include 25% EDC/IDC)
-                      </th>
-                      <th className="main-th">Total Cost</th>
-                    </tr>
-                  </thead>
+            <tbody>
+              <tr>
+                <td>145.697</td>
+                <td>₹80,000</td>
+                <td>₹31,000</td>
+                <td>₹11,34,576.00</td>
+                <td>₹47,93,431.30</td>
+                <td>₹29,79,503.65</td>
+                <td>₹29,79,503.65</td>
+                <td><b>₹1,19,18,014.60</b></td>
+              </tr>
 
-                  <tbody>
-                    <tr>
-                      <td>146</td>
-                      <td>₹80,000</td>
-                      <td>₹31,000</td>
-                      <td>₹11,34,576</td>
-                      <td>₹47,93,431</td>
-                      <td>₹29,79,503</td>
-                      <td>₹29,79,503</td>
-                      <td><b>₹1,18,87,014</b></td>
-                    </tr>
+              <tr>
+                <td>158.159</td>
+                <td>₹80,000</td>
+                <td>₹31,000</td>
+                <td>₹12,34,272.00</td>
+                <td>₹52,03,431.10</td>
+                <td>₹32,34,351.55</td>
+                <td>₹32,34,351.55</td>
+                <td><b>₹1,29,37,406.20</b></td>
+              </tr>
 
-                    <tr>
-                      <td>158</td>
-                      <td>₹80,000</td>
-                      <td>₹31,000</td>
-                      <td>₹12,34,272</td>
-                      <td>₹52,03,431</td>
-                      <td>₹32,34,351</td>
-                      <td>₹32,34,351</td>
-                      <td><b>₹1,29,06,406</b></td>
-                    </tr>
+              <tr>
+                <td>162.077</td>
+                <td>₹80,000</td>
+                <td>₹31,000</td>
+                <td>₹12,65,616.00</td>
+                <td>₹53,32,333.30</td>
+                <td>₹33,14,474.65</td>
+                <td>₹33,14,474.65</td>
+                <td><b>₹1,32,57,898.60</b></td>
+              </tr>
 
-                    <tr>
-                      <td>162</td>
-                      <td>₹80,000</td>
-                      <td>₹31,000</td>
-                      <td>₹12,65,616</td>
-                      <td>₹53,32,333</td>
-                      <td>₹33,14,474</td>
-                      <td>₹33,14,474</td>
-                      <td><b>₹1,32,26,898</b></td>
-                    </tr>
+              <tr>
+                <td>167.233</td>
+                <td>₹80,000</td>
+                <td>₹31,000</td>
+                <td>₹13,06,864.00</td>
+                <td>₹55,01,965.70</td>
+                <td>₹34,19,914.85</td>
+                <td>₹34,19,914.85</td>
+                <td><b>₹1,36,79,659.40</b></td>
+              </tr>
 
-                    <tr>
-                      <td>167</td>
-                      <td>₹80,000</td>
-                      <td>₹31,000</td>
-                      <td>₹13,06,864</td>
-                      <td>₹55,01,965</td>
-                      <td>₹34,19,914</td>
-                      <td>₹34,19,914</td>
-                      <td><b>₹1,36,48,659</b></td>
-                    </tr>
-
-                    <tr>
-                      <td>179</td>
-                      <td>₹80,000</td>
-                      <td>₹31,000</td>
-                      <td>₹14,04,160</td>
-                      <td>₹59,02,095</td>
-                      <td>₹36,68,627</td>
-                      <td>₹36,68,627</td>
-                      <td><b>₹1,46,43,511</b></td>
-                    </tr>
-                  </tbody>
-                </table>
-              </div>
-            </div>
-          </div>
+              <tr>
+                <td>179.395</td>
+                <td>₹80,000</td>
+                <td>₹31,000</td>
+                <td>₹14,04,160.00</td>
+                <td>₹59,02,095.50</td>
+                <td>₹36,68,627.80</td>
+                <td>₹36,68,627.80</td>
+                <td><b>₹1,46,74,511.00</b></td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </div>
+    </div>
+  </div>
+</div>
+
 
 
 

@@ -202,6 +202,20 @@ const BannerSection = ({ countdown }) => {
                       <i className="fa-solid fa-arrow-right"></i> Click Here
                     </a>
                   </p>
+                  <p>
+                    <span>
+                      <i className="fa fa-check-double"></i>
+                    </span>{" "}
+                    Click to View Price List{" "}
+                    <a
+                      href="/images/pricelist.pdf"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-red blink-soft"
+                    >
+                      <i className="fa-solid fa-arrow-right"></i> Click Here
+                    </a>
+                  </p>
                 </div>
                 <div className="one-sec trd">
                   <span>
