@@ -1,31 +1,23 @@
 import React from 'react';
 
-const MainContent = ({ 
-  enqForm, 
-  handleEnqFormChange, 
-  handleEnqFormSubmit, 
-  handleNavLinkClick 
+const MainContent = ({
+  enqForm,
+  handleEnqFormChange,
+  handleEnqFormSubmit,
+  handleNavLinkClick
 }) => {
   return (
     <>
-      <section className="elite-homes-info">
-        <div className="container">
-          <div className="row">
-            <div className="col-md-12">
-              <div className="md:flex md:justify-center blue-bg-box">
-                <div className="w-full h-full md:w-1/2 md:h-1/2 place-items-center">
-                  <div className="bg-blue-100 p-4 mt-4 rounded text-center text-black">
-                    <h2 className="text-2xl font-bold">AARANYA GREENS (FINAL PHASE) | RESIDENTIAL PLOTS | BUILDER FLOORS | SECTOR 35 SONIPAT</h2>
-                    <p>HRERA-PKL-SNP-675-2025 dated on 19-03-2025</p>
-                    <p className="mt-4 font-bold">EOI REGISTRATION AMOUNT</p>
-                    <p className="text-3xl font-bold text-blue-600">(HARYANA GOVT. RESIDENTIAL PLOTS)</p>
-                  </div>
-                </div>
-              </div>
-            </div>
+      <div class="md:flex md:justify-center blue-bg-box">
+        <div class="w-full h-full md:w-1/2 md:h-1/2 place-items-center">
+          <div class="bg-blue-100 p-4 mt-4 rounded text-center text-black">
+            <h2 class="text-2xl font-bold">RRITAM Peace Valley, Bahalgarh, Sector - 80, Sonipat</h2>
+            <p>HRERA-PKL-SP-741-2025 dated on 11.08.2025	</p>
+            <p class="mt-4 font-bold">REGISTRATION OPEN</p>
+            <p class="mt-4 font-bold">(HARYANA GOVT. RESIDENTIAL PLOTS)</p>
           </div>
         </div>
-      </section>
+      </div>
 
       <div className="amenities-bank" id="amenities-bank" style={{ background: '#f7f7f7' }}>
         <h2 className="cons-heading pb-2 text-center font-sans">The Project has been Approved By</h2>
@@ -53,42 +45,42 @@ const MainContent = ({
 
       <section className="pd-30 top-details">
         <div className="container-fluid">
-        <div class="row">
-                       <div class="col-md-3">
-                           <div class="status-strip">
-                              <h4>Plots Starting</h4>
-                            <p>Price ₹92.5 Lac*</p> 
-                           </div>
-                       </div>
-                         <div class="col-md-3">
-                           <div class="status-strip">
-                              <h4>Total No. of Plots</h4> 
-                              <p>  113</p>
-                           </div>
-                       </div>
-                       
-                         <div class="col-md-3">
-                         <div class="status-strip">
-                              <h4>Payment Plan</h4>
-                            <p>10:40:25:25</p>
-                           </div>
-                       </div>
-                       
-                      
-                       
-                         <div class="col-md-3">
-                          <div class="status-strip">
-                              <h4>HRERA-NO</h4>
-                            <p>HRERA-PKL-SNP-675-2025 dated on 19-03-2025</p>
-                           </div>
-                       </div>
-                       
+          <div class="row">
+            <div class="col-md-3">
+              <div class="status-strip">
+                <h4>Plots Starting</h4>
+                <p>Price ₹1.19 Lac*</p>
+              </div>
+            </div>
+            <div class="col-md-3">
+              <div class="status-strip">
+                <h4>Total No. of Plots</h4>
+                <p>  30</p>
+              </div>
+            </div>
 
-                        
-                       
-                     
-                  
-           </div>
+            <div class="col-md-3">
+              <div class="status-strip">
+                <h4>Payment Plan</h4>
+                <p>10:40:30:20</p>
+              </div>
+            </div>
+
+
+
+            <div class="col-md-3">
+              <div class="status-strip">
+                <h4>HRERA-NO</h4>
+                <p>HRERA-PKL-SNP-675-2025 dated on 19-03-2025</p>
+              </div>
+            </div>
+
+
+
+
+
+
+          </div>
         </div>
       </section>
 
@@ -96,20 +88,20 @@ const MainContent = ({
         <div className="container">
           <div className=" flex flex-row w-full items-center justify-between">
             <div className="col-md-6 text-center text-md-start mb-3 mb-md-0">
-              <h2 className="h4 h2-md mb-3">AARANYA GREENS, SECTOR - 35 SONIPAT</h2>
-              <p>HRERA-PKL-SNP-675-2025 dated on 19-03-2025</p>
+              <h2 className="h4 h2-md mb-3">RRITAM Peace Valley, Bahalgarh, Sector - 80, Sonipat</h2>
+              <p>HRERA-PKL-SP-741-2025 dated on 11.08.2025</p>
               {/* <a href="#" className="btn btn-danger px-4 py-2 fw-bold" data-bs-toggle="modal" data-bs-target="#registrationModal">
                 EOI Registration Open
               </a> */}
-                <a
-              href="#"
-              className="register-btn text-white fw-bold"
-              data-bs-toggle="modal"
-              data-bs-target="#registrationModal"
-              style={{ textDecoration: 'none' }}
-            >
-              EOI Registration Open
-            </a>
+              <a
+                href="#"
+                className="register-btn text-white fw-bold"
+                data-bs-toggle="modal"
+                data-bs-target="#registrationModal"
+                style={{ textDecoration: 'none' }}
+              >
+                EOI Registration Open
+              </a>
             </div>
             <div className=" text-center w-fit">
               <img src="images/rera-logo.png" alt="DDJAY Image" className="img-fluid rounded" />
@@ -118,78 +110,120 @@ const MainContent = ({
         </div>
       </div>
 
-      <div className="amenities-highlights mt-10" id="amenities-highlights">
-        <h2 className="cons-heading pb-5 text-center font-sans"> AARANYA GREENS SECTOR 35 SONIPAT HIGHLIGHTS</h2>
+      <div class="amenities">
+        <h2 class="cons-heading pb-2 text-center font-sans">
+          RRITAM PEACE VALLEY BAHALGARH
+        </h2>
         <div class="container">
-            <div class="row">
-                <div class="col-md-6 col-sm-6">
-                    <div class="amenities-listing">
-                        <ul class="list-disc list-inside">
-                            <li>Spread Across 6.5 Acres</li>
-                            <li>Multi-Purpose Hall For community gatherings & events</li>
-                            <li>24m & 9m Wide Roads Network and Pathways</li>
-                            <li>Secure Gated Development Peace of mind with controlled access</li>
-                            <li>Water Supply & Drainage System</li>
-                        </ul>
-                    </div>
-                </div>
-                
-                <div class="col-md-6 col-sm-6">
-                    <div class="amenities-listing">
-                        <ul class="list-disc list-inside">
-                            <li>Dedicated Commercial Area For everyday essentials</li>
-                            <li>Lush Green Parks Serene spaces to unwind, walk, and relax</li>
-                            <li>Safe and joyful spaces for children to explore and play</li>
-                            <li>Illuminated avenues for a refined living experience</li>
-                            <li>Multi-Purpose Hall For community gatherings & events</li>
-                        </ul>
-                    </div>
-                </div>
-                </div>
+          <div class="row">
+            <div class="col-lg-6">
+              <h2 class="cons-heading pb-2 text-center font-sans">
+                FLOOR PLAN
+              </h2>
+              <img src="/images/floor_plan_new.png" class="w-100" />
+            </div>
 
+            <div class="col-lg-6">
+              <h2 class="cons-heading pb-2 text-center font-sans">
+                SITEPLAN
+              </h2>
+              <img src="/images/site.jpeg" class="w-100" />
+            </div>
+          </div>
         </div>
       </div>
 
-      <div className="amenities-pricing" id="amenities-pricing">
+
+      <div className="amenities-pricing mt-20" id="amenities-pricing">
         <h2 className="cons-heading pb-2 text-center font-sans">Price List</h2>
+
         <div className="container">
           <div className="row">
             <div className="col-md-12 col-sm-12">
-              <div className="amenities-listing table-responsive">
-                <table className="table table-bordered text-center">
+              <div className="amenities-listing table-responsive position-relative">
+                <table
+                  className="table table-bordered text-center w-100 border-collapse"
+                  style={{ borderCollapse: "collapse" }}
+                >
                   <thead>
                     <tr>
-                      <th className="main-th">UNIT SIZE(Sq.yd)</th>
-                      <th className="main-th">UNIT PRICE(in Rs. Per Sq.yd.)</th>
-                      <th className="main-th">Total Cost*</th>
-                      <th className="main-th">EOI Registration Amount</th>
+                      <th className="main-th">Plot Size (Sq. Yd.)</th>
+                      <th className="main-th">Rate / Sq. Yd.</th>
+                      <th className="main-th">Registration Amount</th>
                       <th className="main-th">10% On Allotment</th>
-                      <th className="main-th">40% within 30 days of Allotment or at the time of BBA Execution</th>
-                      <th className="main-th">25% within 90 days of Allotment</th>
-                      <th className="main-th">25% at the time of Possession</th>
+                      <th className="main-th">
+                        40% Within 30 Days
+                        <br />
+                        (Include 50% EDC/IDC)
+                      </th>
+                      <th className="main-th">
+                        25% Within 90 Days
+                        <br />
+                        (Include 25% EDC/IDC)
+                      </th>
+                      <th className="main-th">
+                        25% On Possession
+                        <br />
+                        (Include 25% EDC/IDC)
+                      </th>
+                      <th className="main-th">Total Cost</th>
                     </tr>
                   </thead>
+
                   <tbody>
                     <tr>
-                      <td>143.42</td><td>65000</td><td>9322300</td><td>31000</td><td>901230</td><td>3728920</td><td>2330575</td><td>2330575</td>
+                      <td>146</td>
+                      <td>₹80,000</td>
+                      <td>₹31,000</td>
+                      <td>₹11,34,576</td>
+                      <td>₹47,93,431</td>
+                      <td>₹29,79,503</td>
+                      <td>₹29,79,503</td>
+                      <td><b>₹1,18,87,014</b></td>
                     </tr>
+
                     <tr>
-                      <td>157.12</td><td>65000</td><td>10212800</td><td>31000</td><td>990280</td><td>4085120</td><td>2553200</td><td>2553200</td>
+                      <td>158</td>
+                      <td>₹80,000</td>
+                      <td>₹31,000</td>
+                      <td>₹12,34,272</td>
+                      <td>₹52,03,431</td>
+                      <td>₹32,34,351</td>
+                      <td>₹32,34,351</td>
+                      <td><b>₹1,29,06,406</b></td>
                     </tr>
+
                     <tr>
-                      <td>159.76</td><td>65000</td><td>10384400</td><td>31000</td><td>1007440</td><td>4153760</td><td>2596100</td><td>2596100</td>
+                      <td>162</td>
+                      <td>₹80,000</td>
+                      <td>₹31,000</td>
+                      <td>₹12,65,616</td>
+                      <td>₹53,32,333</td>
+                      <td>₹33,14,474</td>
+                      <td>₹33,14,474</td>
+                      <td><b>₹1,32,26,898</b></td>
                     </tr>
+
                     <tr>
-                      <td>162.43</td><td>65000</td><td>10557950</td><td>31000</td><td>1024795</td><td>4223180</td><td>2639487.5</td><td>2639487.5</td>
+                      <td>167</td>
+                      <td>₹80,000</td>
+                      <td>₹31,000</td>
+                      <td>₹13,06,864</td>
+                      <td>₹55,01,965</td>
+                      <td>₹34,19,914</td>
+                      <td>₹34,19,914</td>
+                      <td><b>₹1,36,48,659</b></td>
                     </tr>
+
                     <tr>
-                      <td>167.43</td><td>65000</td><td>10882950</td><td>31000</td><td>1057295</td><td>4353180</td><td>2720737.5</td><td>2720737.5</td>
-                    </tr>
-                    <tr>
-                      <td>172.27</td><td>65000</td><td>11197550</td><td>31000</td><td>1088755</td><td>4479020</td><td>2799387.5</td><td>2799387.5</td>
-                    </tr>
-                    <tr>
-                      <td>179.39</td><td>65000</td><td>11660350</td><td>31000</td><td>1135035</td><td>4664140</td><td>2915087.5</td><td>2915087.5</td>
+                      <td>179</td>
+                      <td>₹80,000</td>
+                      <td>₹31,000</td>
+                      <td>₹14,04,160</td>
+                      <td>₹59,02,095</td>
+                      <td>₹36,68,627</td>
+                      <td>₹36,68,627</td>
+                      <td><b>₹1,46,43,511</b></td>
                     </tr>
                   </tbody>
                 </table>
@@ -199,31 +233,8 @@ const MainContent = ({
         </div>
       </div>
 
-      {/* <section className="mb-4 mt-4">
-        <div className="container">
-          <div className="row">
-            <div className="col-lg-6 col-md-6 col-sm-12">
-              <div>
-                <p className="bnk-details d-flex justify-content-center mb-4">Site Plan</p>
-                <div className="abt-image">
-                  <img src="images/layout.png" className="w-100" alt="Site Plan" />
-                </div>
-              </div>
-            </div>
-            <div className="col-lg-6 col-md-6 col-sm-12">
-              <div>
-                <p className="bnk-details d-flex justify-content-center mb-4">Layout Plan</p>
-                <div className="abt-image">
-                  <img src="images/ma.jpg" className="w-100" alt="Layout Plan" />
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section> */}
 
-     
-  
+
 
       <section className="pd-30 gallery" id="gallery">
         <div className="container">
@@ -233,11 +244,11 @@ const MainContent = ({
           <div className="row">
             {[
               'gal1.jpeg',
-              'gal2.jpeg',
-              'gal3.jpeg',
-              'gal4.jpeg',
-              'gal5.jpeg',
-              'gal6.jpeg',
+              'gal2.jpg',
+              'gal3.jpg',
+              'gal4.jpg',
+              'gal5.jpg',
+              // 'gal6.jpeg',
               // 'gal7.jpeg',
               // 'gal8.jpeg',
             ].map((image, index) => (
@@ -254,86 +265,138 @@ const MainContent = ({
 
       <div class="amenities " id="amenities">
         <h2 class="cons-heading pb-2 text-center font-sans">
-      AARANYA GREENS | RESIDENTIAL PLOTS | BUILDER FLOORS | SECTOR 35 SONIPAT
+          RRITAM Peace Valley, Bahalgarh, Sector - 80, Sonipat
         </h2>
         <div class="container">
-            <div class="row">
-                <div class="col-md-12 col-sm-12">
-                    <div class="amenities-listing">
-                     <p>Flowtech Estates proudly marks its debut in Sonipat with Aaranya Greens — a meticulously planned plotted residential enclave that blends thoughtful design with long-term value. Nestled in the land of our origins, this landmark project features precisely demarcated plots, elegant builder floors, curated green landscaping, and robust infrastructure — all crafted to deliver comfort, connectivity, and a high standard of living.</p>
-                     <p>From wide, paved roads to abundant open spaces, dependable water supply to well-engineered drainage and modern sewage systems — every detail has been planned to enhance everyday life, going far beyond what's promised in brochures.</p>
-                     <p>Developed under the Deen Dayal Jan Awas Yojna (DDJAY), Aaranya Greens offers freehold plots, interest subsidies, and affordable financing options for aspiring homeowners. For developers, individual plot registries and floor-wise loan approvals add to the ease and opportunity, making this not just a place to live, but a place to grow — both personally and financially.</p>
-                     
-                      
-                </div>
+          <div class="row">
+            <div class="col-md-12 col-sm-12">
+              <div class="amenities-listing">
+                <p>Rritam Peace Valley offers the perfect blend of urban convenience and rural serenity, located in proximity from Delhi with excellent connectivity via the different national highways. Situated in the rapidly developing Bahalgarh Sonipat belt, it is close to NH-44, marking it as a key growth hub in the expanding Delhi NCR region. Sonipat is expected to witness a major real estate boom in the coming years. The project features 95 thoughtfully designed freehold plots ranging from 59.731 to 149.996 SQM (approx. 71.438 to 179.395 Sq. Yds. Fully approved under DDJAY by the Government of Haryana and sanctioned by the Town and Country Planning (TCP) department, the township includes modern amenities such as gated entry, STP, water tank, sewer lines, rainwater harvesting pit, LED streetlights, landscaped parks, play zones, water supply, etc. a truly Peaceful, Pollution free living experience.</p>
+
+
+              </div>
             </div>
+          </div>
         </div>
-    </div>     
-   </div>   
+      </div>
 
-   <div class="amenities jst-pb" id="amenities">
-       
-       <div class="container">
-            <h2 class="cons-heading pb-5 text-center font-sans">
-      Location Advantages
-       </h2>
-           <div class="row">
-               <div class="col-md-6 col-sm-6">
-                  <div class="highlights-container">
-                      <div class="highlight-item flex gap-3">
-                           <i class="fas fa-check-circle"></i>
-                           <p className='text-sm'><strong>Strategic Location:</strong> Located on the northern edge of Delhi, Sonipat enjoys excellent access to the capital city.</p>
-                       </div>
-                       <div class="highlight-item flex gap-3">
-                           <i class="fas fa-check-circle"></i>
-                           <p className='text-sm'><strong>Unmatched Road Connectivity:</strong> Seamless travel via KMP Expressway, Eastern Peripheral Expressway, and NH-44.</p>
-                       </div>
-                       <div class="highlight-item flex gap-3">
-                           <i class="fas fa-check-circle"></i>
-                           <p className='text-sm'><strong>Future-Ready Transport:</strong> Delhi–Karnal RRTS Rapid Rail to significantly reduce commute time.</p>
-                       </div>
-                       <div class="highlight-item flex gap-3">
-                           <i class="fas fa-check-circle"></i>
-                           <p className='text-sm'><strong>Part of Mega Industrial Corridor:</strong> Integrated into the Delhi-Mumbai Industrial Corridor (DMIC), ensuring rapid development.</p>
-                       </div>
-                       <div class="highlight-item flex gap-3">
-                           <i class="fas fa-check-circle"></i>
-                           <p className='text-sm'><strong>Investment Growth Zone:</strong> Kundli-Sonipat Investment Region (Phase II-A) set to boost logistics, industry, and housing demand.</p>
-                       </div>
-                       <div class="highlight-item flex gap-3">
-                           <i class="fas fa-check-circle"></i>
-                           <p className='text-sm'><strong>Upcoming Metro Connectivity:</strong> Planned metro line to Sonipat will enhance Delhi access, reduce travel time, and raise property values.</p>
-                       </div>
-                       <div class="highlight-item flex gap-3">
-                           <i class="fas fa-check-circle"></i>
-                           <p className='text-sm'><strong>Educational Advantage:</strong> Right opposite OP Jindal Global University—an international education hub that boosts rental and resale potential.</p>
-                       </div>
-                       <div class="highlight-item flex gap-3">
-                           <i class="fas fa-check-circle"></i>
-                           <p className='text-sm'><strong>Thriving Social Infrastructure:</strong> Rapid growth in malls, hospitals, and schools turning Sonipat into a self-sustained urban hub.</p>
-                       </div>
-                       <div class="highlight-item flex gap-3">
-                           <i class="fas fa-check-circle"></i>
-                           <p className='text-sm'><strong>High ROI Potential:</strong> Competitive property prices today with high appreciation expected due to ongoing and upcoming infrastructure projects.</p>
-                       </div>
+      <div className="amenities jst-pb" id="amenities">
+        <div className="container">
+          <h2 className="cons-heading pb-5 text-center font-sans">
+            Location Advantages
+          </h2>
 
+          <div className="row">
+            {/* Left Column - List */}
+            <div className="col-md-6 col-sm-6">
+              <div className="highlights-container">
+                {[
+                  { title: "NH334B", time: "5-min Drive Approx" },
+                  { title: "KMP EXPRESSWAY", time: "7-8 min Drive Approx" },
+                  { title: "UER-II", time: "30-min Drive Approx" },
+                  { title: "NH44", time: "2-min Drive Approx" },
+                  {
+                    title: "Delhi - Katra Expressway",
+                    time: "40 min Drive Approx",
+                  },
+                  { title: "Rishihood University", time: "10 min Drive Approx" },
+                  { title: "IMT Kharkhoda", time: "20 min Drive Approx" },
+                  {
+                    title: "Upcoming Rajiv Gandhi Education City Metro Station",
+                    time: "10 min Drive Approx",
+                  },
+                  {
+                    title: "Dr. B.R Ambedkar National Law University",
+                    time: "10 min Drive Approx",
+                  },
+                ].map((item, index) => (
+                  <div
+                    key={index}
+                    className="highlight-item flex items-start gap-2 mb-2"
+                  >
+                    <i className="fas fa-check-circle text-green-600 mt-1"></i>
+                    <p>
+                      <strong>{item.title} :</strong> {item.time}
+                    </p>
+                  </div>
+                ))}
+              </div>
+            </div>
 
-                   </div>
-           </div>
-           
-               <div class="col-md-6 col-sm-6">
-                     <img src="images/Screenshot 2025-07-10 at 10.58.20 AM.png" class="/img-fluid img-thumbnail w-100" alt="Responsive-image" />
-                   {/* <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3490.2059465918705!2d76.99502827500032!3d28.98126767547617!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390dbb00153a4279%3A0x76250346865c7cde!2sElite%20Homes%20%2B%2002%20Home!5e0!3m2!1sen!2sin!4v1748684383425!5m2!1sen!2sin" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> */}
-           </div>
-       </div>
-   </div>     
- </div>   
+            {/* Right Column - Google Map */}
+            <div className="col-md-6 col-sm-6">
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d27925.437945809503!2d77.098417!3d28.967222!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390daf007771e535%3A0xf0e3af382c54ea34!2sRritam%20Peace%20Valley!5e0!3m2!1sen!2sin!4v1761304075801!5m2!1sen!2sin"
+                width="100%"
+                height="450"
+                style={{ border: 0 }}
+                allowFullScreen
+                loading="lazy"
+                referrerPolicy="no-referrer-when-downgrade"
+                title="Project Location Map"
+              ></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="deendayal-yojna mt-20 px-4">
+        <div className="container">
+          <h2 className="text-3xl font-semibold text-center font-sans pb-4 text-gray-800">
+            About Deen Dayal Jan Awas Yojna (DDJAY)
+          </h2>
+
+          <div className="row">
+            <div className="col-md-12 col-sm-12">
+              <div className="yojna-content text-justify leading-relaxed text-gray-700">
+                <p className="mb-3">
+                  <b>Deen Dayal Jan Awas Yojna (DDJAY)</b> is an affordable housing
+                  policy launched by the Government of Haryana in 2016 to encourage
+                  the development of plotted colonies in low and medium potential
+                  towns of the state. The objective of this scheme is to provide
+                  affordable and high-quality housing options for all sections of
+                  society, particularly the middle-income and lower-income groups.
+                </p>
+
+                <p className="mb-3">
+                  Under DDJAY, private developers are permitted to develop residential
+                  plotted colonies on land ranging between 5 acres and 15 acres. The
+                  plots are made available at affordable rates, ensuring planned
+                  urbanization and adequate infrastructure such as roads, drainage,
+                  parks, and community facilities. The scheme promotes balanced
+                  regional growth while ensuring that housing remains within the reach
+                  of common citizens.
+                </p>
+
+                <p className="mb-3">
+                  The policy also encourages transparency, faster approvals, and
+                  simplified development norms. Homebuyers benefit from clear land
+                  titles, better connectivity, and a government-supported regulatory
+                  framework. DDJAY projects are seen as ideal investment
+                  opportunities, offering both affordability and long-term growth
+                  potential.
+                </p>
+
+                <p className="font-medium mt-4">
+                  <b>Key Benefits of DDJAY:</b>
+                </p>
+                <ul className="list-disc ml-5 mt-2 space-y-1">
+                  <li>Affordable residential plots with clear titles.</li>
+                  <li>Planned infrastructure and essential amenities.</li>
+                  <li>Government-supported policy ensuring transparency.</li>
+                  <li>Quick approval and development process for developers.</li>
+                  <li>Encourages urban development in smaller towns and cities.</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
 
       <div className="pd-60" id="developer">
         <div className="container">
           <div className="row">
             <div className="col-md-12">
-              <div className="ftr_rera"><span>243 OF 2023</span></div>
+              <div className="ftr_rera"><span>HRERA-PKL-SP-741-2025 dated on 11.08.2025</span></div>
             </div>
             <div className="col-lg-12">
               <div className="develop">
@@ -347,6 +410,7 @@ const MainContent = ({
           </div>
         </div>
       </div>
+
 
       <div className="modal fade" id="exampleModal" tabIndex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div className="modal-dialog">

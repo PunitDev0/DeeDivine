@@ -1,27 +1,35 @@
-import React from 'react';
+import React from "react";
 
 const BannerSection = ({ countdown }) => {
   return (
     <>
+      {/* News Ticker Section */}
       <div className="news-tricker">
         <marquee width="100%" direction="left" height="100px">
-          ATTENTION REGISTRATION OPEN !!!! Book Your Shop under Affordable Housing Policy 2013 for Aranya Greens *** 33% Quota Reserved for Women *** 33% Quota Reserved under Government Category *** UNIT ALLOTMENT DATE 7 November 2025 *** LAST DATE OF APPLICATION 31 October 2025 *** Registration Amount is Fully Refundable for Unsuccessful Applicants Within 14 Working Days
-        </marquee>
+          ATTENTION REGISTRATION OPEN !!!! Book Your Shop under Affordable
+          Housing Policy 2013 for Aranya Greens *** 33% Quota Reserved for Women
+          *** 33% Quota Reserved under Government Category *** UNIT ALLOTMENT
+          DATE 18 December 2025 *** LAST DATE OF APPLICATION 14 December 2025 ***
+          Registration Amount is Fully Refundable for Unsuccessful Applicants
+          Within 14 Working Days
+        </marquee>  
       </div>
-
+      {/* Banner Section */}
       <section className="bnr-section">
         <div className="container">
           <div className="row">
-            {/* LEFT COLUMN */}
+            {/* Left Column */}
             <div className="col-md-3">
               <div className="col-md-12">
                 <div className="one-sec">
-                  <span><p>Registration Open Until - 31/10/25 Friday</p></span>
+                  <span>
+                    <p>Last Date of Registration - 14 December 2025</p>
+                  </span>
                 </div>
-
-                <div className="two-sec scond">
+                {/* Countdown Timer */}
+                 <div className="two-sec scond">
                   <div id="timer" className="flex-wrap d-flex justify-content-center text-center">
-                    <p className="text-success fw-bold">Registration Open</p>
+                    <p className="text-success fw-bold text-red-600">Registration Closes in</p>
                     <div>
                       <span>{countdown.days} Days </span>
                       <span>{countdown.hours} Hours </span>
@@ -30,99 +38,191 @@ const BannerSection = ({ countdown }) => {
                     </div>
                   </div>
                 </div>
-
                 <div className="one-sec trd">
-                  <span><a href="#payment-plan">Attractive Payment Plan</a></span>
+                  <span>
+                    <a
+                      href="images/AaranyaGreenSonipat35PriceList.pdf"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      Attractive Payment Plan
+                    </a>
+                  </span>
                 </div>
-
                 <div className="one-sec">
-                  <span><p>HRERA No. PKL-SNP-548-2024 - Aranya Greens</p></span>
+                  <span>
+                    <a href="javascript:void(0)">Loan Facility Available</a>
+                  </span>
                 </div>
-
                 <div className="one-sec trd">
-                  <span><a href="#loan">Loan Facility Available</a></span>
-                </div>
-
-                <div className="one-sec scond">
-                  <span><p className="text-success fw-bold">EOI Registration Open</p></span>
+                  <span>
+                    <p>Date of Allotment - 27 November 2025</p>
+                  </span>
                 </div>
               </div>
             </div>
-
-            {/* CENTER COLUMN */}
-            <div className="col-md-6">
+            {/* Middle Column - Carousel */}
+            <div className="col-md-6 text-center text-bold">
+               <h1>DEEN DAYAL JAN AWAS YOJNA</h1>
+              <h5> (Under Haryana Governement DTCP)</h5>
               <div className="carousel-wrapper">
-                <img src="images/rera-logo.png" alt="Overlay" className="carousel-overlay-img" />
-                <div id="bannerCarousel" className="carousel slide bnr-img" data-bs-ride="carousel">
+                {/* Overlay Image */}
+                <img
+                  src="images/rera-logo.png"
+                  alt="Overlay"
+                  className="carousel-overlay-img"
+                />
+                {/* Bootstrap Carousel */}
+                <div
+                  id="bannerCarousel"
+                  className="carousel slide bnr-img h-full"
+                  data-bs-ride="carousel"
+                >
+                  {/* Indicators */}
                   <div className="carousel-indicators">
-                    <button type="button" data-bs-target="#bannerCarousel" data-bs-slide-to="0" className="active" aria-current="true" aria-label="Slide 1"></button>
-                    <button type="button" data-bs-target="#bannerCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                    <button type="button" data-bs-target="#bannerCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
-                    <button type="button" data-bs-target="#bannerCarousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
+                    <button
+                      type="button"
+                      data-bs-target="#bannerCarousel"
+                      data-bs-slide-to="0"
+                      className="active"
+                      aria-current="true"
+                    ></button>
+                    <button
+                      type="button"
+                      data-bs-target="#bannerCarousel"
+                      data-bs-slide-to="1"
+                    ></button>
+                    <button
+                      type="button"
+                      data-bs-target="#bannerCarousel"
+                      data-bs-slide-to="2"
+                    ></button>
                   </div>
+                  {/* Slides */}
                   <div className="carousel-inner">
                     <div className="carousel-item active">
-                      <img src="images/aranyabanner.jpeg" className="d-block w-100" alt="Aranya Greens Slide 1" />
+                      <img
+                        src="/images/banner.jpg"
+                        className="d-block w-100 h-[420px] object-cover"
+                        alt="Slide 1"
+                      />
                     </div>
                     <div className="carousel-item">
-                      <img src="images/aranyabanner1.jpeg" className="d-block w-100" alt="Aranya Greens Slide 2" />
+                      <img
+                        src="/images/banner1.jpg"
+                        className="d-block w-100 h-[420px] object-cover"
+                        alt="Slide 2"
+                      />
                     </div>
                     <div className="carousel-item">
-                      <img src="images/aranyabanner2.jpeg" className="d-block w-100" alt="Aranya Greens Slide 3" />
-                    </div>
-                    <div className="carousel-item">
-                      <img src="images/aranyabanner3.jpeg" className="d-block w-100" alt="Aranya Greens Slide 4" />
+                      <img
+                        src="/images/banner2.jpg"
+                        className="d-block w-100 h-[420px] object-cover"
+                        alt="Slide 3"
+                      />
                     </div>
                   </div>
-                  <button className="carousel-control-prev" type="button" data-bs-target="#bannerCarousel" data-bs-slide="prev">
-                    <span className="carousel-control-prev-icon" aria-hidden="true"></span>
+
+                  {/* Controls */}
+                  <button
+                    className="carousel-control-prev"
+                    type="button"
+                    data-bs-target="#bannerCarousel"
+                    data-bs-slide="prev"
+                  >
+                    <span
+                      className="carousel-control-prev-icon"
+                      aria-hidden="true"
+                    ></span>
                     <span className="visually-hidden">Previous</span>
                   </button>
-                  <button className="carousel-control-next" type="button" data-bs-target="#bannerCarousel" data-bs-slide="next">
-                    <span className="carousel-control-next-icon" aria-hidden="true"></span>
+                  <button
+                    className="carousel-control-next"
+                    type="button"
+                    data-bs-target="#bannerCarousel"
+                    data-bs-slide="next"
+                  >
+                    <span
+                      className="carousel-control-next-icon"
+                      aria-hidden="true"
+                    ></span>
                     <span className="visually-hidden">Next</span>
                   </button>
                 </div>
               </div>
             </div>
-
-            {/* RIGHT COLUMN */}
-            <div class="col-md-3">
-                      <div class="col-md-12">
-
-                          
-                           
-                            <div class="one-sec">
-                             <span><p class="">HRERA-PKL-SNP-675-2025 dated on 19-03-2025 </p></span>
-                           </div>
-                           
-                            <div class="two-sec scond click_pad">
-                            <p><span><i class="fa fa-check-double"></i></span>Click to View Final License<a href="images/final-licence.pdf" target="_blank" class="text-red blink-soft"><i class="fa-solid fa-arrow-right"></i>Click Here</a></p>
-                            <p><span><i class="fa fa-check-double"></i></span> Click to View Layout Plan<a href="images/layoutplan.pdf" target="_blank" class="text-red blink-soft"><i class="fa-solid fa-arrow-right"></i>Click Here</a></p>
-                            <p><span><i class="fa fa-check-double"></i></span> Click to View RERA Certificate<a href="images/reracertificate.pdf" target="_blank" class="text-red blink-soft"><i class="fa-solid fa-arrow-right"></i>Click Here</a></p>
-                            <p><span><i class="fa fa-check-double"></i></span>Click to View Brochure<a href="images/AaranyaGreensBrochure.pdf" target="_blank" class="text-red blink-soft"><i class="fa-solid fa-arrow-right"></i>Click Here</a></p>
-                            <p><span><i class="fa fa-check-double"></i></span>Click to View Price List<a href="images/AaranyaGreenSonipat35PriceList.pdf" target="_blank" class="text-red blink-soft"><i class="fa-solid fa-arrow-right"></i>Click Here</a></p>
-                            <p><span><i class="fa fa-check-double"></i></span> Click to View Factsheet<a href="images/Aaranyafactsheetnewupdated.pdf" target="_blank" class="text-red blink-soft"><i class="fa-solid fa-arrow-right"></i>Click Here</a></p>
-                            
-                        
-
-                           </div>
-                           <div class="one-sec trd">
-                             <span><a href="images/AaranyaGreenSonipat35PriceList.pdf" target="_blank"  class="">Registration Open Only for 29 Plots.</a></span>
-                           </div>
-                           
-                           
-                         
-                      </div>
-                  
-                  
-                  
+            {/* Right Column */}
+            <div className="col-md-3">
+              <div className="col-md-12">
+                <div className="one-sec">
+                  <span>
+                    <p>HRERA-PKL-SP-741-2025 dated on 11.08.2025</p>
+                  </span>
+                </div>
+                <div className="two-sec scond click_pad">
+                  <p>
+                    <span>
+                      <i className="fa fa-check-double"></i>
+                    </span>{" "}
+                    Click to View RERA Certificate{" "}
+                    <a
+                      href="/images/rera.pdf"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-red blink-soft"
+                    >
+                      <i className="fa-solid fa-arrow-right"></i> Click Here
+                    </a>
+                  </p>
+                  <p>
+                    <span>
+                      <i className="fa fa-check-double"></i>
+                    </span>{" "}
+                    Click to View Brochure{" "}
+                    <a
+                      href="/images/brochure.jpeg"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-red blink-soft"
+                    >
+                      <i className="fa-solid fa-arrow-right"></i> Click Here
+                    </a>
+                  </p>
+                  <p>
+                    <span>
+                      <i className="fa fa-check-double"></i>
+                    </span>{" "}
+                    Click to View Grasso License{" "}
+                    <a
+                      href="/images/RritamrealityGrassoLicense.pdf"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-red blink-soft"
+                    >
+                      <i className="fa-solid fa-arrow-right"></i> Click Here
+                    </a>
+                  </p>
+                </div>
+                <div className="one-sec trd">
+                  <span>
+                    <a href="#" target="_blank" rel="noopener noreferrer">
+                      Total No. of Plots : 30 Plots
+                    </a>
+                  </span>
+                </div>
+                <div className="one-sec">
+                  <span>
+                    <a href="#" target="_blank" rel="noopener noreferrer">
+                      Payment Plan : 10 : 40 : 30 : 20
+                    </a>
+                  </span>
+                </div>
               </div>
+            </div>
           </div>
         </div>
       </section>
     </>
   );
 };
-
 export default BannerSection;

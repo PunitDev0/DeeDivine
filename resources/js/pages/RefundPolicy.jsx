@@ -2,7 +2,7 @@ import React from 'react';
 
 const RefundPolicy = () => {
   return (
-    <section className="py-10 bg-white text-black h-screen">
+    <section className="py-10 bg-white text-black min-h-screen">
       <div className="container mx-auto w-4/5 text-justify">
         <div className="flex flex-col">
           <div>
@@ -12,15 +12,21 @@ const RefundPolicy = () => {
 
             <p className="text-base font-light leading-6 mb-4">
               <strong>
-                YP Infra Pvt. Ltd. believes in helping its customers as far as possible, and has therefore a liberal cancellation policy. Under this policy:
+                RRITAM REALITY LLP believes in helping its customers as far as possible, and has therefore adopted a liberal cancellation policy.
+                <br /><br />
+                • All unsuccessful applications will be refunded the registration amount within <span className="font-semibold">14 Working Days</span> of the Allotment Date.
                 <br />
-                All unsuccessful applications will be refunded registration amount within 7 Working Days of the Allotment Date
+                • Refunds will be processed to the same account provided by the user at the time of registration.
                 <br />
-                Refunds will be processed on the same account that which user has provided us.
-                <br />
-                There is 100% Refund policy with no charges if Allotment is not confirmed.
-                <br />
-                Please contact info@deendayaljanawasyojnareg.com for Cancellation and More information.
+                • There is a <span className="font-semibold">100% refund policy</span> with no charges if the Allotment is not confirmed.
+                <br /><br />
+                For cancellations and further information, please contact us at:{' '}
+                <a
+                  href="mailto:info@haryanaaffordableshopsreg.com"
+                  className="text-blue-600 underline"
+                >
+                  info@haryanaaffordableshopsreg.com
+                </a>.
               </strong>
             </p>
           </div>

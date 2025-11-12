@@ -10,7 +10,12 @@ const Header = ({ isNavOpen, toggleNav }) => {
             <img src="images/download.jpg" className="single-client-logo" alt="Logo 1" />
           </a>
           <a href="/">
-            <img src="images/support.png" className="single-client-logo" alt="Logo 2" />
+            <img src="images/support.png" className="single-client-logo" 
+            alt="Logo 2" />
+          </a>
+          <a href="/">
+            <img src="images/rera-logo.png" className="single-client-logo" 
+            alt="Logo 2" />
           </a>
         </div>
 
@@ -52,7 +57,7 @@ const Header = ({ isNavOpen, toggleNav }) => {
               data-bs-target="#registrationModal"
               style={{ textDecoration: 'none' }}
             >
-              <i className="fas fa-user-plus"></i> EOI Registration Open
+              <i className="fas fa-user-plus"></i>Registration Open
             </a>
           </li>
         </ul>
